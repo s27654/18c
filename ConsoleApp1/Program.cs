@@ -7,7 +7,7 @@ Console.WriteLine("Commit 3");
 
 return;
 
-static double CalculateAverage(int[] arr)
+static double CalculateAverage(int[] array)
 {
     return arr.Average();
 }
